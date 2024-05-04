@@ -28,7 +28,7 @@ For detailed insights, check out our project report and presentation [Report & P
 To run the AI Interviewer system, follow these steps:
 1. *Clone the Repository*:
 ```bash
-git clone https://github.com/Aagam0812/AI-Interviewer.git
+git clone https://github.com/shail2811/AI_interview.git
 ```
 2. *Set Environment Variables*:
 Set the following environment variables:
