@@ -4,7 +4,7 @@
 ## Introduction 🌟
 Welcome to the AI Interviewer - a revolutionary tool in AI-enhanced interview preparation! Our system uses OpenAI GPT-4 and Whisper Model for realistic interview simulations. 
 
-Check out our deployed application here [AI-Interviewer](https://ai-interviewer-mission255.streamlit.app/).
+Check out our deployed application here [AI-Interviewer](https://shail-ai-interview.streamlit.app/).
 
 ## Features 🚀
 - *Personalized Training*: Sessions tailored to user's resumes and job descriptions.
@@ -17,11 +17,8 @@ Check out our deployed application here [AI-Interviewer](https://ai-interviewer-
 - *Feature Engineering*: Extracting features for model training.
 - *AI-Driven Interviews*: Simulated interviews based on extracted data.
 
-## Project Demo Video 🎥
-For Working insights, check out our Video Demo [Video](https://drive.google.com/drive/u/2/folders/1ucn4CIvZqsVlOsfV8J1xat09QeCLEu7y).
-
 ## Project Documentation 📑
-For detailed insights, check out our project report and presentation [Report & Presentation](https://drive.google.com/drive/u/2/folders/1ucn4CIvZqsVlOsfV8J1xat09QeCLEu7y).
+For detailed insights, check out our project report and presentation [Report & Presentation](https://drive.google.com/file/d/1OP8v3NIOPGDbj7yl1MsRawroaj4T3a_n/view?usp=sharing).
 
 ## Getting Started 🛠
 
